@@ -1,9 +1,1 @@
-safe:        false
-auto:        true
-server:      false
-server_port: 4000
-baseurl:    /
-
-# source:      ./_posts
-# destination: ./_site
-# plugins:     ./_plugins
+auto:       true
