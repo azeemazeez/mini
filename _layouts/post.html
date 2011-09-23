@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
-<div id="post">
-{{ content }}
+<div class="post">
+    <a href="http://{{ page.title }}"><img src="/screens/{{ page.image }}" alt="{{ page.title }}" /></a>
+    <span class="date">http://{{ page.title }} - {{ page.date | date_to_long_string }}</span>
 </div>
