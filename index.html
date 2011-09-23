@@ -3,7 +3,7 @@ layout: default
 title: Azeem's MiniBlog
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 <div class="post">
     <a href="http://{{ post.title }}"><img src="screens/{{ post.image }}" alt="{{ post.title }}" /></a>
     <span class="date">http://{{ post.title }} - {{ post.date | date_to_long_string }}</span>
