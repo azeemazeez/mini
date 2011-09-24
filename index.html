@@ -4,7 +4,7 @@ layout: default
 
 {% for post in site.posts %}
 <div class="post">
-    <a href="http://{{ post.title }}"><img src="screens/{{ post.image }}" alt="{{ post.title }}" /></a>
-    <span class="post-info">http://{{ post.title }} - {{ post.date | date_to_long_string }} - <a class="permalink" href="{{ post.url }}">#</a></span>
+    <a href="{% if post.title contains 'http://' %}{% else %}http://{% endif %}{{ post.title }}"><img src="screens/{{ post.image }}" alt="{{ post.title }}" /></a>
+    <span class="post-info">{% if post.title contains 'http://' %}{% else %}http://{% endif %}{{ post.title }} - {{ post.date | date_to_long_string }} - <a class="permalink" href="{{ post.url }}">#</a></span>
 </div>
 {% endfor %}
