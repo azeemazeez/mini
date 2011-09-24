@@ -3,6 +3,6 @@ layout: default
 ---
 
 <div class="post">
-    <a href="http://{{ page.title }}"><img src="/screens/{{ page.image }}" alt="{{ page.title }}" /></a>
-    <span class="post-info">http://{{ page.title }} - {{ page.date | date_to_long_string }}</span>
+    <a href="{% if post.title contains 'http://' %}{% else %}http://{% endif %}{{ page.title }}"><img src="/screens/{{ page.image }}" alt="{{ page.title }}" /></a>
+    <span class="post-info">{% if post.title contains 'http://' %}{% else %}http://{% endif %}{{ page.title }} - {{ page.date | date_to_long_string }}</span>
 </div>
