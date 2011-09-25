@@ -2,9 +2,14 @@
 layout: default
 ---
 
-{% for post in site.posts %}
+{% for page in paginator.posts %}
 <div class="post">
-    <a href="{% if post.title contains 'http://' %}{% else %}http://{% endif %}{{ post.title }}"><img src="screens/{{ post.image }}" alt="{{ post.title }}" /></a>
-    <span class="post-info">{% if post.title contains 'http://' %}{% else %}http://{% endif %}{{ post.title }} - {{ post.date | date_to_long_string }} - <a class="permalink" href="{{ post.url }}">#</a></span>
+    <a href="{% if page.title contains 'http://' %}{% else %}http://{% endif %}{{ page.title }}"><img src="/screens/{{ page.image }}" alt="{{ page.title }}" /></a>
+    <span class="post-info">{% if page.title contains 'http://' %}{% else %}http://{% endif %}{{ page.title }} - {{ page.date | date_to_string }} - <a class="permalink" href="{{ page.url }}">#</a></span>
 </div>
 {% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}<a href="/page{% if paginator.previous_page == "1" %}/{% else %}{{paginator.previous_page}}/{% endif %}">Newer</a>{% endif %}
+  {% if paginator.next_page %}<a href="/page{{paginator.next_page}}/">Older</a>{% endif %}
+</div>
