@@ -5,7 +5,7 @@ layout: default
 {% for page in paginator.posts %}
 <div class="post">
     <a href="{% if page.title contains 'http://' %}{% else %}http://{% endif %}{{ page.title }}"><img src="/screens/{{ page.image }}" alt="{{ page.title }}" /></a>
-    <span class="post-info">{% if page.title contains 'http://' %}{% else %}http://{% endif %}{{ page.title }} - {{ page.date | date_to_string }} - <a class="permalink" href="{{ page.url }}">#</a></span>
+    <div class="post-info">{% if page.title contains 'http://' %}{% else %}http://{% endif %}{{ page.title }} - {{ page.date | date_to_string }} - <a class="permalink" href="{{ page.url }}">#</a></div>
 </div>
 {% endfor %}
 
