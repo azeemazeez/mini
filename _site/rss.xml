@@ -6,8 +6,8 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Sun, 25 Sep 2011 13:11:03 GST</pubDate>
-    <lastBuildDate>Sun, 25 Sep 2011 13:11:03 GST</lastBuildDate>
+    <pubDate>Sun, 25 Sep 2011 14:01:18 GST</pubDate>
+    <lastBuildDate>Sun, 25 Sep 2011 14:01:18 GST</lastBuildDate>
 
 
     
@@ -26,6 +26,15 @@
       <pubDate>Sun, 25 Sep 2011 00:00:00 GST</pubDate>
       <author>azeem@azeemazeez.com (Azeem Azeez)</author>
       <guid>http://mini.azeemazeez.com/2011/09/25/mr.chancegraham.comportfolio</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>http://joeypfeifer.com/</title>
+      <link>http://mini.azeemazeez.com/2011/09/25/joeypfeifer.com.html</link>
+      <pubDate>Sun, 25 Sep 2011 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2011/09/25/joeypfeifer.com</guid>
       <description></description>
     </item>
     
