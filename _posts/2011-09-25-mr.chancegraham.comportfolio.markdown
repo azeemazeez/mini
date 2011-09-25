@@ -1,0 +1,5 @@
+---
+layout: post
+title: http://mr.chancegraham.com/portfolio
+image: mr.chancegraham.comportfolio-2011-09-25-clipped.png
+---
