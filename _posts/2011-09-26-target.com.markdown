@@ -1,0 +1,5 @@
+---
+layout: post
+title: http://target.com
+image: target.com-2011-09-26-clipped.png
+---

@@ -6,10 +6,19 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Sun, 25 Sep 2011 16:50:03 GST</pubDate>
-    <lastBuildDate>Sun, 25 Sep 2011 16:50:03 GST</lastBuildDate>
+    <pubDate>Mon, 26 Sep 2011 17:08:08 GST</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2011 17:08:08 GST</lastBuildDate>
 
 
+    
+    <item>
+      <title>http://target.com</title>
+      <link>http://mini.azeemazeez.com/2011/09/26/target.com.html</link>
+      <pubDate>Mon, 26 Sep 2011 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2011/09/26/target.com</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>http://wishingline.com</title>
