@@ -5,11 +5,11 @@ layout: default
 {% for page in paginator.posts %}
 <div class="post">
     <a href="{% if page.title contains 'http://' %}{% else %}http://{% endif %}{{ page.title }}"><img src="/screens/{{ page.image }}" alt="{{ page.title }}" /></a>
-    <div class="post-info">{% if page.title contains 'http://' %}{% else %}http://{% endif %}{{ page.title }} - {{ page.date | date_to_string }} - <a class="permalink" href="{{ page.url }}">#</a></div>
+    <div class="post-info"><a href="{% if page.title contains 'http://' %}{% else %}http://{% endif %}{{ page.title }}">{% if page.title contains 'http://' %}{% else %}http://{% endif %}{{ page.title }}</a> - {{ page.date | date_to_string }} - <a class="permalink" href="{{ page.url }}">#</a></div>
 </div>
 {% endfor %}
 
 <div class="pagination">
-  {% if paginator.previous_page %}<a href="/page{% if paginator.previous_page == "1" %}/{% else %}{{paginator.previous_page}}/{% endif %}">Newer</a>{% endif %}
-  {% if paginator.next_page %}<a href="/page{{paginator.next_page}}/">Older</a>{% endif %}
+  {% if paginator.previous_page %}<a href="/page{% if paginator.previous_page == "1" %}/{% else %}{{paginator.previous_page}}/{% endif %}">< Newer</a>{% endif %}
+  {% if paginator.next_page %}<a href="/page{{paginator.next_page}}/">Older ></a>{% endif %}
 </div>
