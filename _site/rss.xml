@@ -6,8 +6,8 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Tue, 27 Sep 2011 13:21:01 GST</pubDate>
-    <lastBuildDate>Tue, 27 Sep 2011 13:21:01 GST</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2011 13:29:17 GST</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2011 13:29:17 GST</lastBuildDate>
     
     <item>
       <title>http://www.strangenative.com/</title>
@@ -15,6 +15,15 @@
       <pubDate>Tue, 27 Sep 2011 00:00:00 GST</pubDate>
       <author>azeem@azeemazeez.com (Azeem Azeez)</author>
       <guid>http://mini.azeemazeez.com/2011/09/27/strangenative.com</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>http://ministryoftype.co.uk/</title>
+      <link>http://mini.azeemazeez.com/2011/09/27/ministryoftype.co.uk.html</link>
+      <pubDate>Tue, 27 Sep 2011 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2011/09/27/ministryoftype.co.uk</guid>
       <description></description>
     </item>
     
