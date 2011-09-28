@@ -9,7 +9,7 @@ layout: default
     </div>
 
     <div id="featured">
-        <p id="li-title">Sites featured</p>
+        <p id="li-title">Sites featured:</p>
         <ul>
         {% for post in site.posts %}
             <li{% cycle '', ' class="alt"' %}><a href="{% if post.title contains 'http://' %}{% else %}http://{% endif %}{{ post.title }}">{% if post.title contains 'http://' %}{% else %}http://{% endif %}{{ post.title }}</a></li>
