@@ -1,4 +1,3 @@
-auto:       false
 title:      'Azeem&#39;s MiniBlog'
 url:        http://mini.azeemazeez.com
-paginate:   10
+paginate:   5
