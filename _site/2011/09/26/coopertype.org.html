@@ -11,12 +11,22 @@
 body {margin:20px 0 0 0; padding:0px; font:11px menlo,'andale mono','courier new',sans-serif; text-align:center;}
 a {color:#333; text-decoration:none;}
 a:hover {color:#36C; text-decoration:underline;}
-h1 a {color:#000; text-decoration:none; margin:60px 0; font-size:12px; font-weight:normal; text-transform:uppercase; display:block;}
-.post {margin-bottom:70px; color:#333;}
+#header {width:1024px; margin:50px auto; height:20px; text-transform:uppercase;}
+#about-link {float:right; margin-top:4px; color:#999;}
+#about-link:hover {color:#36c;}
+h1 {float:left; margin:0;}
+h1 a {color:#000; text-decoration:none; margin:0; font-size:12px; font-weight:normal; float:left;}
+.post {margin-bottom:70px; color:#333; clear:both;}
 .post img {border:2px solid #333; margin-bottom:10px;}
-.pagination {margin:100px 0 50px;}
+.pagination {margin:50px 0 50px;}
 .pagination a {color:#888; padding:4px 10px; text-decoration:none;}
 .pagination a:hover {color:#36C; text-decoration:underline;}
+#about {width:800px; margin:0 auto; text-align:left;}
+#about ul {float:right; width:380px;}
+#about #li-title {list-style-type:none; padding-bottom:6px; font-weight:bold; margin-left:-12px; padding-left:0;}
+#about #text {float:left; width:350px;}
+#about #text a {color:#36C; text-decoration:underline;}
+#about #text a:hover {color:#333;}
 </style>
 <script type="text/javascript">
 var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-25967009-1']); _gaq.push(['_trackPageview']);
@@ -27,7 +37,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </head>
 
 <body>
-<h1><a href="http://mini.azeemazeez.com">Azeem&#39;s MiniBlog</a></h1>
+<div id="header"><h1><a href="http://mini.azeemazeez.com">Azeem&#39;s MiniBlog</a></h1><a id="about-link" href="/about.html">About</a></div>
 <div class="post">
     <a href="http://coopertype.org/"><img src="/screens/coopertype.org-2011-09-26-clipped.png" alt="http://coopertype.org/" /></a>
     <div class="post-info"><a href="http://coopertype.org/">http://coopertype.org/</a> - 26 September 2011</div>

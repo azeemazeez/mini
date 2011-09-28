@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div id="about">
+    <div id="text">
+        <p>mini.azeemzeez.com is a showcase featuring carefully handpicked sites that I personally think highlights good, clean design.</p>
+        <p>The site is bought to you by <a href="http://azeemazeez.com">Azeem Azeez</a> and powered by <a href="http://jekyllrb.com">Jekyll</a>. You can follow me on <a href="http://twitter.com/azeemazeez">Twitter</a> or use the <a href="http://feeds.feedburner.com/minirss">RSS feed</a></p>
+    </div>
+    <ul>
+        <li id="li-title">Sites featured</li>
+    {% for post in site.posts %}
+        <li><a href="{% if post.title contains 'http://' %}{% else %}http://{% endif %}{{ post.title }}">{% if post.title contains 'http://' %}{% else %}http://{% endif %}{{ post.title }}</a> - <a href="{{ post.url }}">{{ post.date | date_to_string }}</a></li>
+    {% endfor %}
+    </ul>
+</div>
