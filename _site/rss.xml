@@ -6,8 +6,17 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Wed, 28 Sep 2011 10:18:59 GST</pubDate>
-    <lastBuildDate>Wed, 28 Sep 2011 10:18:59 GST</lastBuildDate>
+    <pubDate>Wed, 28 Sep 2011 11:35:04 GST</pubDate>
+    <lastBuildDate>Wed, 28 Sep 2011 11:35:04 GST</lastBuildDate>
+    
+    <item>
+      <title>http://www.positype.com/</title>
+      <link>http://mini.azeemazeez.com/2011/09/28/positype.com.html</link>
+      <pubDate>Wed, 28 Sep 2011 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2011/09/28/positype.com</guid>
+      <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/positype.com-2011-09-28-clipped.png" />]]></description>
+    </item>
     
     <item>
       <title>http://miekd.com/</title>
