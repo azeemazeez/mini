@@ -1,0 +1,5 @@
+---
+layout: post
+title: http://www.hha.no/
+image: hha.no-2011-09-28-clipped.png
+---
