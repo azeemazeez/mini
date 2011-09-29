@@ -6,8 +6,8 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Thu, 29 Sep 2011 18:32:24 GST</pubDate>
-    <lastBuildDate>Thu, 29 Sep 2011 18:32:24 GST</lastBuildDate>
+    <pubDate>Thu, 29 Sep 2011 18:32:53 GST</pubDate>
+    <lastBuildDate>Thu, 29 Sep 2011 18:32:53 GST</lastBuildDate>
     
     <item>
       <title>http://soulwire.co.uk/</title>
@@ -16,6 +16,15 @@
       <author>azeem@azeemazeez.com (Azeem Azeez)</author>
       <guid>http://mini.azeemazeez.com/2011/09/29/soulwire.co.uk</guid>
       <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/soulwire.co.uk-2011-09-29-clipped.png" />]]></description>
+    </item>
+    
+    <item>
+      <title>http://www.raffaelstueken.de/</title>
+      <link>http://mini.azeemazeez.com/2011/09/29/raffaelstueken.de.html</link>
+      <pubDate>Thu, 29 Sep 2011 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2011/09/29/raffaelstueken.de</guid>
+      <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/raffaelstueken.de-2011-09-29-clipped.png" />]]></description>
     </item>
     
     <item>
