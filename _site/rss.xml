@@ -6,8 +6,8 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Thu, 29 Sep 2011 13:57:09 GST</pubDate>
-    <lastBuildDate>Thu, 29 Sep 2011 13:57:09 GST</lastBuildDate>
+    <pubDate>Thu, 29 Sep 2011 14:50:36 GST</pubDate>
+    <lastBuildDate>Thu, 29 Sep 2011 14:50:36 GST</lastBuildDate>
     
     <item>
       <title>http://www.practicefoundry.com/</title>
@@ -16,6 +16,15 @@
       <author>azeem@azeemazeez.com (Azeem Azeez)</author>
       <guid>http://mini.azeemazeez.com/2011/09/29/practicefoundry.com</guid>
       <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/practicefoundry.com-2011-09-29-clipped.png" />]]></description>
+    </item>
+    
+    <item>
+      <title>http://www.pictorymag.com/</title>
+      <link>http://mini.azeemazeez.com/2011/09/29/pictorymag.com.html</link>
+      <pubDate>Thu, 29 Sep 2011 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2011/09/29/pictorymag.com</guid>
+      <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/pictorymag.com-2011-09-29-clipped.png" />]]></description>
     </item>
     
     <item>
