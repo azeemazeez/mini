@@ -6,8 +6,8 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Thu, 29 Sep 2011 18:31:20 GST</pubDate>
-    <lastBuildDate>Thu, 29 Sep 2011 18:31:20 GST</lastBuildDate>
+    <pubDate>Thu, 29 Sep 2011 18:32:24 GST</pubDate>
+    <lastBuildDate>Thu, 29 Sep 2011 18:32:24 GST</lastBuildDate>
     
     <item>
       <title>http://soulwire.co.uk/</title>
@@ -34,6 +34,15 @@
       <author>azeem@azeemazeez.com (Azeem Azeez)</author>
       <guid>http://mini.azeemazeez.com/2011/09/29/pictorymag.com</guid>
       <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/pictorymag.com-2011-09-29-clipped.png" />]]></description>
+    </item>
+    
+    <item>
+      <title>http://www.nikebetterworld.com/</title>
+      <link>http://mini.azeemazeez.com/2011/09/29/nikebetterworld.com.html</link>
+      <pubDate>Thu, 29 Sep 2011 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2011/09/29/nikebetterworld.com</guid>
+      <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/nikebetterworld.com-2011-09-29-clipped.png" />]]></description>
     </item>
     
     <item>
