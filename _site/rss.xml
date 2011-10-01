@@ -6,8 +6,8 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Sat, 01 Oct 2011 20:20:41 GST</pubDate>
-    <lastBuildDate>Sat, 01 Oct 2011 20:20:41 GST</lastBuildDate>
+    <pubDate>Sat, 01 Oct 2011 20:21:23 GST</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2011 20:21:23 GST</lastBuildDate>
     
     <item>
       <title>http://yearinreview.twitter.com/</title>
@@ -34,6 +34,15 @@
       <author>azeem@azeemazeez.com (Azeem Azeez)</author>
       <guid>http://mini.azeemazeez.com/2011/10/01/jaxvineyards.com</guid>
       <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/jaxvineyards.com-2011-10-01-clipped.png" />]]></description>
+    </item>
+    
+    <item>
+      <title>http://100k.bigcartel.com/</title>
+      <link>http://mini.azeemazeez.com/2011/10/01/100k.bigcartel.com.html</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2011/10/01/100k.bigcartel.com</guid>
+      <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/100k.bigcartel.com-2011-10-01-clipped.png" />]]></description>
     </item>
     
     <item>
