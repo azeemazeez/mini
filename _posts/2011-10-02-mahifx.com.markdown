@@ -1,0 +1,5 @@
+---
+layout: post
+title: http://mahifx.com/
+image: mahifx.com-2011-10-02-clipped.png
+---
