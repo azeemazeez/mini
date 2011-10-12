@@ -6,8 +6,17 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Fri, 07 Oct 2011 21:02:23 GST</pubDate>
-    <lastBuildDate>Fri, 07 Oct 2011 21:02:23 GST</lastBuildDate>
+    <pubDate>Wed, 12 Oct 2011 12:57:40 GST</pubDate>
+    <lastBuildDate>Wed, 12 Oct 2011 12:57:40 GST</lastBuildDate>
+    
+    <item>
+      <title>http://www.colbowdesign.com/</title>
+      <link>http://mini.azeemazeez.com/2011/10/12/colbowdesign.com.html</link>
+      <pubDate>Wed, 12 Oct 2011 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2011/10/12/colbowdesign.com</guid>
+      <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/colbowdesign.com-2011-10-12-clipped.png" />]]></description>
+    </item>
     
     <item>
       <title>http://momentskis.com/</title>
