@@ -6,8 +6,17 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Sat, 15 Oct 2011 16:06:36 GST</pubDate>
-    <lastBuildDate>Sat, 15 Oct 2011 16:06:36 GST</lastBuildDate>
+    <pubDate>Sun, 16 Oct 2011 19:00:49 GST</pubDate>
+    <lastBuildDate>Sun, 16 Oct 2011 19:00:49 GST</lastBuildDate>
+    
+    <item>
+      <title>http://www.warchild.org.uk/</title>
+      <link>http://mini.azeemazeez.com/2011/10/16/warchild.org.uk.html</link>
+      <pubDate>Sun, 16 Oct 2011 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2011/10/16/warchild.org.uk</guid>
+      <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/warchild.org.uk-2011-10-16-clipped.png" />]]></description>
+    </item>
     
     <item>
       <title>http://blog.kylemeyer.com/</title>
