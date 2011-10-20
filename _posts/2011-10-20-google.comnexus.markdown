@@ -1,0 +1,5 @@
+---
+layout: post
+title: http://www.google.com/nexus/
+image: google.comnexus-2011-10-20-clipped.png
+---
