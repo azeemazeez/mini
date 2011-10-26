@@ -6,8 +6,17 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Thu, 20 Oct 2011 18:03:19 GST</pubDate>
-    <lastBuildDate>Thu, 20 Oct 2011 18:03:19 GST</lastBuildDate>
+    <pubDate>Wed, 26 Oct 2011 16:22:53 GST</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2011 16:22:53 GST</lastBuildDate>
+    
+    <item>
+      <title>http://beta.rallyinteractive.com/</title>
+      <link>http://mini.azeemazeez.com/2011/10/26/beta.rallyinteractive.com.html</link>
+      <pubDate>Wed, 26 Oct 2011 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2011/10/26/beta.rallyinteractive.com</guid>
+      <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/beta.rallyinteractive.com-2011-10-26-clipped.png" />]]></description>
+    </item>
     
     <item>
       <title>http://www.simplefocus.com/openhouse/</title>
