@@ -6,8 +6,17 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Thu, 15 Dec 2011 16:38:05 IST</pubDate>
-    <lastBuildDate>Thu, 15 Dec 2011 16:38:05 IST</lastBuildDate>
+    <pubDate>Thu, 15 Dec 2011 16:38:46 IST</pubDate>
+    <lastBuildDate>Thu, 15 Dec 2011 16:38:46 IST</lastBuildDate>
+    
+    <item>
+      <title>http://www.thomas-aull.de/blog</title>
+      <link>http://mini.azeemazeez.com/2011/12/15/thomas-aull.deblog.html</link>
+      <pubDate>Thu, 15 Dec 2011 00:00:00 IST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2011/12/15/thomas-aull.deblog</guid>
+      <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/thomas-aull.deblog-2011-12-15-clipped.png" />]]></description>
+    </item>
     
     <item>
       <title>http://alwaysreadthemanual.com/</title>
