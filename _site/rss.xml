@@ -6,8 +6,17 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Fri, 06 Jan 2012 19:00:59 GST</pubDate>
-    <lastBuildDate>Fri, 06 Jan 2012 19:00:59 GST</lastBuildDate>
+    <pubDate>Fri, 06 Jan 2012 19:01:55 GST</pubDate>
+    <lastBuildDate>Fri, 06 Jan 2012 19:01:55 GST</lastBuildDate>
+    
+    <item>
+      <title>http://woodandfaulk.com/</title>
+      <link>http://mini.azeemazeez.com/2012/01/06/woodandfaulk.com.html</link>
+      <pubDate>Fri, 06 Jan 2012 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2012/01/06/woodandfaulk.com</guid>
+      <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/woodandfaulk.com-2012-01-06-clipped.png" />]]></description>
+    </item>
     
     <item>
       <title>http://voiceandtone.com/</title>
