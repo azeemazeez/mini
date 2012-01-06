@@ -6,8 +6,8 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Fri, 06 Jan 2012 18:57:50 GST</pubDate>
-    <lastBuildDate>Fri, 06 Jan 2012 18:57:50 GST</lastBuildDate>
+    <pubDate>Fri, 06 Jan 2012 18:58:22 GST</pubDate>
+    <lastBuildDate>Fri, 06 Jan 2012 18:58:22 GST</lastBuildDate>
     
     <item>
       <title>http://www.ogvidius.com/</title>
@@ -16,6 +16,15 @@
       <author>azeem@azeemazeez.com (Azeem Azeez)</author>
       <guid>http://mini.azeemazeez.com/2012/01/06/ogvidius.com</guid>
       <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/ogvidius.com-2012-01-06-clipped.png" />]]></description>
+    </item>
+    
+    <item>
+      <title>http://bitfoundry.ca/blog/</title>
+      <link>http://mini.azeemazeez.com/2012/01/06/bitfoundry.cablog.html</link>
+      <pubDate>Fri, 06 Jan 2012 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2012/01/06/bitfoundry.cablog</guid>
+      <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/bitfoundry.cablog-2012-01-06-clipped.png" />]]></description>
     </item>
     
     <item>
