@@ -6,8 +6,17 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Fri, 06 Jan 2012 19:01:55 GST</pubDate>
-    <lastBuildDate>Fri, 06 Jan 2012 19:01:55 GST</lastBuildDate>
+    <pubDate>Thu, 26 Jan 2012 18:09:05 GST</pubDate>
+    <lastBuildDate>Thu, 26 Jan 2012 18:09:05 GST</lastBuildDate>
+    
+    <item>
+      <title>http://gridiron-league.com/</title>
+      <link>http://mini.azeemazeez.com/2012/01/26/gridiron-league.com.html</link>
+      <pubDate>Thu, 26 Jan 2012 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2012/01/26/gridiron-league.com</guid>
+      <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/gridiron-league.com-2012-01-26-clipped.png" />]]></description>
+    </item>
     
     <item>
       <title>http://woodandfaulk.com/</title>
