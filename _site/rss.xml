@@ -6,8 +6,17 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Sun, 29 Jan 2012 18:08:08 GST</pubDate>
-    <lastBuildDate>Sun, 29 Jan 2012 18:08:08 GST</lastBuildDate>
+    <pubDate>Tue, 31 Jan 2012 15:44:15 GST</pubDate>
+    <lastBuildDate>Tue, 31 Jan 2012 15:44:15 GST</lastBuildDate>
+    
+    <item>
+      <title>http://twitter.github.com/</title>
+      <link>http://mini.azeemazeez.com/2012/01/31/twitter.github.com.html</link>
+      <pubDate>Tue, 31 Jan 2012 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2012/01/31/twitter.github.com</guid>
+      <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/twitter.github.com-2012-01-31-clipped.png" />]]></description>
+    </item>
     
     <item>
       <title>http://hellohappy.org/beautiful-web-type/</title>
