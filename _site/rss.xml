@@ -6,8 +6,17 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Tue, 31 Jan 2012 15:44:15 GST</pubDate>
-    <lastBuildDate>Tue, 31 Jan 2012 15:44:15 GST</lastBuildDate>
+    <pubDate>Wed, 01 Feb 2012 08:35:49 GST</pubDate>
+    <lastBuildDate>Wed, 01 Feb 2012 08:35:49 GST</lastBuildDate>
+    
+    <item>
+      <title>http://kippt.com/</title>
+      <link>http://mini.azeemazeez.com/2012/02/01/kippt.com.html</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2012/02/01/kippt.com</guid>
+      <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/kippt.com-2012-02-01-clipped.png" />]]></description>
+    </item>
     
     <item>
       <title>http://twitter.github.com/</title>
