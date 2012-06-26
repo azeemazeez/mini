@@ -6,8 +6,17 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Wed, 01 Feb 2012 08:35:49 GST</pubDate>
-    <lastBuildDate>Wed, 01 Feb 2012 08:35:49 GST</lastBuildDate>
+    <pubDate>Tue, 26 Jun 2012 15:04:08 GST</pubDate>
+    <lastBuildDate>Tue, 26 Jun 2012 15:04:08 GST</lastBuildDate>
+    
+    <item>
+      <title>http://campaignmonitor.com</title>
+      <link>http://mini.azeemazeez.com/2012/06/26/campaignmonitor.com.html</link>
+      <pubDate>Tue, 26 Jun 2012 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2012/06/26/campaignmonitor.com</guid>
+      <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/campaignmonitor.com-2012-06-26-clipped.png" />]]></description>
+    </item>
     
     <item>
       <title>http://kippt.com/</title>
