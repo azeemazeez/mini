@@ -6,8 +6,17 @@
     <atom:link href="http://mini.azeemazeez.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Azeem&#39;s MiniBlog</description>
     <language>en-us</language>
-    <pubDate>Tue, 26 Jun 2012 15:04:08 GST</pubDate>
-    <lastBuildDate>Tue, 26 Jun 2012 15:04:08 GST</lastBuildDate>
+    <pubDate>Fri, 29 Jun 2012 18:54:03 GST</pubDate>
+    <lastBuildDate>Fri, 29 Jun 2012 18:54:03 GST</lastBuildDate>
+    
+    <item>
+      <title>http://wthr.co</title>
+      <link>http://mini.azeemazeez.com/2012/06/29/wthr.co.html</link>
+      <pubDate>Fri, 29 Jun 2012 00:00:00 GST</pubDate>
+      <author>azeem@azeemazeez.com (Azeem Azeez)</author>
+      <guid>http://mini.azeemazeez.com/2012/06/29/wthr.co</guid>
+      <description><![CDATA[<img src="http://mini.azeemazeez.com/screens/wthr.co-2012-06-29-clipped.png" />]]></description>
+    </item>
     
     <item>
       <title>http://campaignmonitor.com</title>
